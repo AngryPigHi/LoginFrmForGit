@@ -17,6 +17,9 @@ namespace LoginFrm
 
         public string Address { get; set; }
 
+        public double Height { get; set; }
+
+        public double Weight { get; set; }
     }
 
 }
