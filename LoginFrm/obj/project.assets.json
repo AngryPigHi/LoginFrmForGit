@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NetStudy\\Git\\GitExample\\Code\\LoginFrm\\LoginFrm\\LoginFrm.csproj",
+      "projectUniqueName": "D:\\NetStudy\\Git\\GitExample2\\LoginFrmForGit\\LoginFrm\\LoginFrm.csproj",
       "projectName": "LoginFrm",
-      "projectPath": "D:\\NetStudy\\Git\\GitExample\\Code\\LoginFrm\\LoginFrm\\LoginFrm.csproj",
+      "projectPath": "D:\\NetStudy\\Git\\GitExample2\\LoginFrmForGit\\LoginFrm\\LoginFrm.csproj",
       "packagesPath": "C:\\Users\\Blithe_Zhu\\.nuget\\packages\\",
-      "outputPath": "D:\\NetStudy\\Git\\GitExample\\Code\\LoginFrm\\LoginFrm\\obj\\",
+      "outputPath": "D:\\NetStudy\\Git\\GitExample2\\LoginFrmForGit\\LoginFrm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
