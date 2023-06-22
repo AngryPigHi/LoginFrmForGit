@@ -10,6 +10,7 @@ namespace LoginFrm
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("Hello");
+            Math.Abs(-1);
         }
     }
 }
