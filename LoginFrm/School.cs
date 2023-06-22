@@ -17,5 +17,7 @@ namespace LoginFrm
         /// 学校地址
         /// </summary>
         public string DZ { get; set; }
+
+        public string TeacherName { get; set; }
     }
 }
