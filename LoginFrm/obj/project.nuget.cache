@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4DYfgh4uGAEER12aUSEuwf7/wwp+W2MuMXXBZTbuX7VHO3W/zMzS0IHqwICz8gLcSq/GRw22AMM65ly9gTy3A==",
+  "dgSpecHash": "Eo+AYapRjEUbxCoTB37OSULXNEM9Ra9GdNJqo90gi8g8THsxpTq7/AKm2YtqdzMVarxFobNug/v3cc+ACkcjbg==",
   "success": true,
-  "projectFilePath": "D:\\NetStudy\\Git\\GitExample2\\LoginFrmForGit\\LoginFrm\\LoginFrm.csproj",
+  "projectFilePath": "D:\\NetStudy\\Git\\GitExample\\Code\\LoginFrm\\LoginFrm\\LoginFrm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

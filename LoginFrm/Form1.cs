@@ -23,5 +23,10 @@ namespace LoginFrm
         {
             MessageBox.Show("This is Dev Branch");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ganme Over");
+        }
     }
 }
