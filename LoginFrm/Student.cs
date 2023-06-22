@@ -14,5 +14,9 @@ namespace LoginFrm
         public int Age { get; set; }
 
         public int UpdateYear { get; set; }
+
+        public string Address { get; set; }
+
     }
+
 }
