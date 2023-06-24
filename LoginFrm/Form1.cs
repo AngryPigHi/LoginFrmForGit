@@ -28,5 +28,16 @@ namespace LoginFrm
         {
             MessageBox.Show("Ganme Over");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("DDD");
+            MessageBox.Show("Test");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("050505");
+        }
     }
 }
