@@ -33,10 +33,6 @@ namespace LoginFrm
         private void button4_Click(object sender, EventArgs e)
         {
             MessageBox.Show("SSS");
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
             MessageBox.Show("DDD");
             MessageBox.Show("Test");
         }
