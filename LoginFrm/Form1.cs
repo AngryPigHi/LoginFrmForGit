@@ -29,5 +29,10 @@ namespace LoginFrm
             MessageBox.Show("Ganme Over");
             MessageBox.Show("Test");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("SSS");
+        }
     }
 }
